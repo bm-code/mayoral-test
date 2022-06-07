@@ -1,0 +1,109 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "product_id": 1,
+            "product_name": "Polo manga corta estampado",
+            "product_price": 18.99,
+            "discount": true,
+            "discount_percentage": 20,
+            "product_colors": [],
+            "product_img_url": "/_next/static/media/polo.jpg",
+            "currency": "€"
+        },
+        {
+            "product_id": 2,
+            "product_name": "Polo estampado veraniego",
+            "product_price": 20.99,
+            "discount": false,
+            "discount_percentage": null,
+            "product_colors": [
+                "black",
+                "blue",
+                "red"
+            ],
+            "product_img_url": "/_next/static/media/polo.jpg",
+            "currency": "€"
+        },
+        {
+            "product_id": 3,
+            "product_name": "Camiseta manga larga estampado",
+            "product_price": 18.99,
+            "discount": true,
+            "discount_percentage": 20,
+            "product_colors": [],
+            "product_img_url": "/_next/static/media/camiseta.jpg",
+            "currency": "€"
+        },
+        {
+            "product_id": 4,
+            "product_name": "Camiseta estampado",
+            "product_price": 16.99,
+            "discount": false,
+            "discount_percentage": null,
+            "product_colors": [],
+            "product_img_url": "/_next/static/media/camiseta.jpg",
+            "currency": "€"
+        },
+        {
+            "product_id": 5,
+            "product_name": "Camisa manga corta",
+            "product_price": 18.99,
+            "discount": true,
+            "discount_percentage": 20,
+            "product_colors": [],
+            "product_img_url": "/_next/static/media/camisa-manga-corta.jpg",
+            "currency": "€"
+        },
+        {
+            "product_id": 6,
+            "product_name": "Camiseta de cuadros",
+            "product_price": 18.99,
+            "discount": true,
+            "discount_percentage": 20,
+            "product_colors": [],
+            "product_img_url": "/_next/static/media/camiseta.jpg",
+            "currency": "€"
+        },
+        {
+            "product_id": 7,
+            "product_name": "Camiseta de rayas",
+            "product_price": 20.99,
+            "discount": false,
+            "discount_percentage": null,
+            "product_colors": [],
+            "product_img_url": "/_next/static/media/camiseta.jpg",
+            "currency": "€"
+        },
+        {
+            "product_id": 8,
+            "product_name": "Polo manga larga estampado",
+            "product_price": 18.99,
+            "discount": true,
+            "discount_percentage": 20,
+            "product_colors": [],
+            "product_img_url": "/_next/static/media/polo.jpg",
+            "currency": "€"
+        },
+        {
+            "product_id": 9,
+            "product_name": "Polo manga larga estampado",
+            "product_price": 16.99,
+            "discount": false,
+            "discount_percentage": null,
+            "product_colors": [],
+            "product_img_url": "/_next/static/media/polo.jpg",
+            "currency": "€"
+        },
+        {
+            "product_id": 10,
+            "product_name": "Camisa manga larga estampado",
+            "product_price": 18.99,
+            "discount": true,
+            "discount_percentage": 20,
+            "product_colors": [],
+            "product_img_url": "/_next/static/media/camisa.jpg",
+            "currency": "€"
+        }
+    ]
+}

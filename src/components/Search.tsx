@@ -1,4 +1,3 @@
-
 export default function Search({ term, setTerm }) {
 
     return (

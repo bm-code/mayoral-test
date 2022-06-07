@@ -6,6 +6,7 @@ import Search from './Search';
 
 export default function ProductList() {
 
+
     type Data = typeof data.results;
     const initialState = data.results;
     const [products, setProducts] = useState<Data>(initialState);

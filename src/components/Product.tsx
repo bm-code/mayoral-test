@@ -1,8 +1,6 @@
 export default function Product({ name, price, discount, colors, image, currency }) {
 
-
     const priceDiscounted = (price - (price * (discount / 100))).toFixed(2);
-
 
     return (
         <div className="product">
@@ -19,4 +17,3 @@ export default function Product({ name, price, discount, colors, image, currency
         </div>
     )
 }
-

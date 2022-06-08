@@ -8,7 +8,7 @@
             "discount": true,
             "discount_percentage": 20,
             "product_colors": [],
-            "product_img_url": "/_next/static/media/polo.jpg",
+            "product_img_url": "/img/polo.jpg",
             "currency": "€"
         },
         {
@@ -22,7 +22,7 @@
                 "blue",
                 "red"
             ],
-            "product_img_url": "/_next/static/media/polo.jpg",
+            "product_img_url": "/img/polo.jpg",
             "currency": "€"
         },
         {
@@ -32,7 +32,7 @@
             "discount": true,
             "discount_percentage": 20,
             "product_colors": [],
-            "product_img_url": "/_next/static/media/camiseta.jpg",
+            "product_img_url": "/img/camiseta.jpg",
             "currency": "€"
         },
         {
@@ -42,7 +42,7 @@
             "discount": false,
             "discount_percentage": null,
             "product_colors": [],
-            "product_img_url": "/_next/static/media/camiseta.jpg",
+            "product_img_url": "/img/camiseta.jpg",
             "currency": "€"
         },
         {
@@ -52,7 +52,7 @@
             "discount": true,
             "discount_percentage": 20,
             "product_colors": [],
-            "product_img_url": "/_next/static/media/camisa-manga-corta.jpg",
+            "product_img_url": "/img/camisa-manga-corta.jpg",
             "currency": "€"
         },
         {
@@ -62,7 +62,7 @@
             "discount": true,
             "discount_percentage": 20,
             "product_colors": [],
-            "product_img_url": "/_next/static/media/camiseta.jpg",
+            "product_img_url": "/img/camiseta.jpg",
             "currency": "€"
         },
         {
@@ -72,7 +72,7 @@
             "discount": false,
             "discount_percentage": null,
             "product_colors": [],
-            "product_img_url": "/_next/static/media/camiseta.jpg",
+            "product_img_url": "/img/camiseta.jpg",
             "currency": "€"
         },
         {
@@ -82,7 +82,7 @@
             "discount": true,
             "discount_percentage": 20,
             "product_colors": [],
-            "product_img_url": "/_next/static/media/polo.jpg",
+            "product_img_url": "/img/polo.jpg",
             "currency": "€"
         },
         {
@@ -92,7 +92,7 @@
             "discount": false,
             "discount_percentage": null,
             "product_colors": [],
-            "product_img_url": "/_next/static/media/polo.jpg",
+            "product_img_url": "/img/polo.jpg",
             "currency": "€"
         },
         {
@@ -102,7 +102,7 @@
             "discount": true,
             "discount_percentage": 20,
             "product_colors": [],
-            "product_img_url": "/_next/static/media/camisa.jpg",
+            "product_img_url": "/img/camisa.jpg",
             "currency": "€"
         }
     ]
